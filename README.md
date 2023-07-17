@@ -17,7 +17,7 @@ A passionate Fullstack Web developer from India</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tajulafreen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tajulafreen" height="30" width="40" /></a>
-<a href="https://linkedin.com/tajul-afreen-shaik-843951251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tajul-afreen-shaik-843951251/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tajul-afreen-843951251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tajul-afreen-shaik-843951251/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tajul_afreen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tajul_afreen" height="30" width="40" /></a>
 </p>
 
