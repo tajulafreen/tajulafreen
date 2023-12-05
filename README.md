@@ -27,4 +27,3 @@ A passionate Fullstack Web developer from India</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tajulafreen&show_icons=true&locale=en&layout=compact" alt="tajulafreen" /></p>
 <h3>Github Trophy :</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tajulafreen" alt="tajulafreen" /></a> </p>
-[![committers.top badge](https://user-badge.committers.top/india_private/tajulafreen.svg)](https://user-badge.committers.top/india_private/tajulafreen)
