@@ -12,7 +12,7 @@ A passionate Fullstack Web developer from India</h3>
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play Chess.
 
-- 👨‍💻 All of my projects are available at ([https://tajulafreen.github.io/Portfolio](https://tajul-afreen-portfolio.vercel.app/)/)
+- 👨‍💻 All of my projects are available at ([here](https://tajul-afreen-portfolio.vercel.app/)/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
