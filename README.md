@@ -6,7 +6,6 @@ A passionate Fullstack Web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajulafreen&label=Profile%20views&color=0e75b6&style=flat" alt="tajulafreen" /> </p>
 
  
-
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, Ruby, React, Rails etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
